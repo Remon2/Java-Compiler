@@ -1,0 +1,51 @@
+Key: STATEMENT_LIST,0
+Value: $,3    
+---------------------------------------------------------------------
+Key: METHOD_BODY,0
+Value: $,3    
+---------------------------------------------------------------------
+Key: IF,0
+Value: int,1    Value: float,1    Value: if,1    Value: while,1    Value: id,1    Value: $,3    Value: },1    
+---------------------------------------------------------------------
+Key: PRIMITIVE_TYPE,0
+Value: id,1    
+---------------------------------------------------------------------
+Key: DECLARATION,0
+Value: int,1    Value: float,1    Value: if,1    Value: while,1    Value: id,1    Value: $,3    Value: },1    
+---------------------------------------------------------------------
+Key: STATEMENT,0
+Value: int,1    Value: float,1    Value: if,1    Value: while,1    Value: id,1    Value: $,3    Value: },1    
+---------------------------------------------------------------------
+Key: WHILE,0
+Value: int,1    Value: float,1    Value: if,1    Value: while,1    Value: id,1    Value: $,3    Value: },1    
+---------------------------------------------------------------------
+Key: ASSIGNMENT,0
+Value: int,1    Value: float,1    Value: if,1    Value: while,1    Value: id,1    Value: $,3    Value: },1    
+---------------------------------------------------------------------
+Key: SIMPLE_EXPRESSION,0
+Value: relop,1    Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: EXPRESSION,0
+Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: TERM,0
+Value: addop,1    Value: relop,1    Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: SIGN,0
+Value: id,1    Value: num,1    Value: (,1    
+---------------------------------------------------------------------
+Key: FACTOR,0
+Value: mulop,1    Value: addop,1    Value: relop,1    Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: STATEMENT_LIST`,0
+Value: $,3    
+---------------------------------------------------------------------
+Key: EXPRESSION`,0
+Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: TERM`,0
+Value: addop,1    Value: relop,1    Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
+Key: SIMPLE_EXPRESSION`,0
+Value: relop,1    Value: ),1    Value: ;,1    
+---------------------------------------------------------------------
